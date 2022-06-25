@@ -6,6 +6,7 @@
 #define DP_STRUCTURAL_BRIDGE_IMANAGER_H
 #include <ostream>
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 /*
